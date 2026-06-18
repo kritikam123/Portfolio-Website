@@ -69,6 +69,8 @@ Email: kritikam619@gmail.com
 
 GitHub: https://github.com/kritikam123
 
+Portfolio: https://kritikam123.github.io/Portfolio-Website/
+
 LinkedIn: https://linkedin.com/in/kritika-maharjan-2098632b4
 
 Future Improvements
